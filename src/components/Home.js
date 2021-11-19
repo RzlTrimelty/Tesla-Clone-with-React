@@ -7,28 +7,28 @@ function Home() {
         <Container>
             <Section
                 title = "Model S"
-                desc = "Order Online for Tuchless Delivery"
+                desc = "Order Online for Touchless Delivery"
                 bgImage = "model-s.jpg"
                 leftBtn = "Custom Order"
                 rightBtn = "Existing Inventory"
             />
             <Section
                 title = "Model Y"
-                desc = "Order Online for Tuchless Delivery"
+                desc = "Order Online for Touchless Delivery"
                 bgImage = "model-y.jpg"
                 leftBtn = "Custom Order"
                 rightBtn = "Existing Inventory"
             />
             <Section
                 title = "Model 3"
-                desc = "Order Online for Tuchless Delivery"
+                desc = "Order Online for Touchless Delivery"
                 bgImage = "model-3.jpg"
                 leftBtn = "Custom Order"
                 rightBtn = "Existing Inventory"
             />
             <Section
                 title = "Model X"
-                desc = "Order Online for Tuchless Delivery"
+                desc = "Order Online for Touchless Delivery"
                 bgImage = "model-x.jpg"
                 leftBtn = "Custom Order"
                 rightBtn = "Existing Inventory"
